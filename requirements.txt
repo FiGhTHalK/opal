@@ -1,3 +1,3 @@
 playwright==1.41.1
-pytz==2025.11
+pytz==2025.1
 aiohttp==3.9.4
