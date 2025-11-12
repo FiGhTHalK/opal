@@ -1,0 +1,101 @@
+{
+  "current_balances": [
+    {
+      "card_name": "halk",
+      "balance": "20.11 AUD"
+    }
+  ],
+  "transactions": [
+    {
+      "date": "Thursday 16 Oct 2025",
+      "time_local": "2025-10-16T16:22:00+11:00",
+      "time_utc": "2025-10-16T05:22:00+00:00",
+      "amount": 50.0,
+      "currency": "AUD",
+      "description": "Top up - Woolworths - Green Square",
+      "card_name": "halk",
+      "mode": null,
+      "tap_on_location": null,
+      "tap_off_location": null,
+      "balance": "50.00 AUD"
+    },
+    {
+      "date": "Thursday 16 Oct 2025",
+      "time_local": "2025-10-16T17:32:00+11:00",
+      "time_utc": "2025-10-16T06:32:00+00:00",
+      "amount": 3.3,
+      "currency": "AUD",
+      "description": "Botany Rd af Johnson St Redfern Station",
+      "card_name": "halk",
+      "mode": "bus",
+      "tap_on_location": "Botany Rd af Johnson St",
+      "tap_off_location": "Redfern Station",
+      "balance": "46.70 AUD"
+    },
+    {
+      "date": "Thursday 16 Oct 2025",
+      "time_local": "2025-10-16T17:42:00+11:00",
+      "time_utc": "2025-10-16T06:42:00+00:00",
+      "amount": 10.66,
+      "currency": "AUD",
+      "description": "Redfern Unknown",
+      "card_name": "halk",
+      "mode": "metro",
+      "tap_on_location": "Redfern",
+      "tap_off_location": "Unknown",
+      "balance": "36.04 AUD"
+    },
+    {
+      "date": "Friday 17 Oct 2025",
+      "time_local": "2025-10-17T19:13:00+11:00",
+      "time_utc": "2025-10-17T08:13:00+00:00",
+      "amount": 3.03,
+      "currency": "AUD",
+      "description": "Wolli Creek Carlton",
+      "card_name": "halk",
+      "mode": "metro",
+      "tap_on_location": "Wolli Creek",
+      "tap_off_location": "Carlton",
+      "balance": "33.01 AUD"
+    },
+    {
+      "date": "Friday 17 Oct 2025",
+      "time_local": "2025-10-17T23:28:00+11:00",
+      "time_utc": "2025-10-17T12:28:00+00:00",
+      "amount": 3.76,
+      "currency": "AUD",
+      "description": "Carlton Central",
+      "card_name": "halk",
+      "mode": "metro",
+      "tap_on_location": "Carlton",
+      "tap_off_location": "Central",
+      "balance": "29.25 AUD"
+    },
+    {
+      "date": "Monday 20 Oct 2025",
+      "time_local": "2025-10-20T16:37:00+11:00",
+      "time_utc": "2025-10-20T05:37:00+00:00",
+      "amount": 5.38,
+      "currency": "AUD",
+      "description": "Green Square Carlton",
+      "card_name": "halk",
+      "mode": "metro",
+      "tap_on_location": "Green Square",
+      "tap_off_location": "Carlton",
+      "balance": "23.87 AUD"
+    },
+    {
+      "date": "Tuesday 21 Oct 2025",
+      "time_local": "2025-10-21T19:45:00+11:00",
+      "time_utc": "2025-10-21T08:45:00+00:00",
+      "amount": 3.76,
+      "currency": "AUD",
+      "description": "Carlton Green Square",
+      "card_name": "halk",
+      "mode": "metro",
+      "tap_on_location": "Carlton",
+      "tap_off_location": "Green Square",
+      "balance": "20.11 AUD"
+    }
+  ]
+}
