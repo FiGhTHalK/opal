@@ -180,4 +180,6 @@ async def debug_transactions(username: str, password: str):
             "transactions": transactions
         }
         
+        print(json.dumps(output, indent=2, ensure_ascii=False))
+        
         await browser.close()
