@@ -1,11 +1,9 @@
-from scraper import OpalScraper
-
-def main():
-    username = input("Input Opal Username or email：")
-    password = input("Input Opal Password：")
-
-    scraper = OpalScraper(username, password)
-    scraper.run()
+import asyncio
+import json
+from scraper import debug_transactions
 
 if __name__ == "__main__":
-    main()
+    username = "wushichu2000@gmail.com" # your_email@example.com
+    password = "Halk0825" # YourPassword
+    results = asyncio.run(debug_transactions(username, password))
+    print(results)
