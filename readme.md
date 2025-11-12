@@ -21,3 +21,8 @@ It uses **Playwright** for browser automation and outputs a JSON file with:
 - Outputs results to JSON and prints to console
 
 ---
+
+## Installation
+
+- Install Python dependencies: pip install -r requirements.txt
+- Install Playwright browsers: python -m playwright install
