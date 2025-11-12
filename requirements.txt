@@ -1,5 +1,6 @@
-- Python 3.10+
-- Playwright
+playwright==1.41.1
+pytz==2025.11
+aiohttp==3.9.4
 
 Install dependencies:
 
